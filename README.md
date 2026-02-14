@@ -12,3 +12,4 @@ Minimal on-chain reward points tracker on Stacks blockchain.
   - `add-reward(amount)` → add points to caller
   - `redeem(amount)` → redeem points from caller
   - `get-points(user)` → check points balance
+2026-02-14 21:06:29 - adjusted calculation
