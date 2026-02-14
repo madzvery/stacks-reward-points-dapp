@@ -14,3 +14,4 @@ Minimal on-chain reward points tracker on Stacks blockchain.
   - `get-points(user)` → check points balance
 2026-02-14 21:06:29 - adjusted calculation
 2026-02-14 21:07:10 - updated points
+2026-02-14 21:07:37 - adjusted calculation
