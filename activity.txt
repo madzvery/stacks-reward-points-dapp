@@ -98,3 +98,4 @@
 2026-02-17 11:31:31 - added test scenario
 2026-02-17 11:31:59 - updated points
 2026-02-17 11:32:08 - updated points
+2026-02-17 11:32:38 - adjusted calculation
