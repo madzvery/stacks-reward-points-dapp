@@ -173,3 +173,4 @@ Minimal on-chain reward points tracker on Stacks blockchain.
 2026-02-19 15:34:25 - adjusted calculation
 2026-02-19 15:34:37 - updated points
 2026-02-19 15:35:09 - updated points
+2026-02-19 15:35:17 - added test scenario
